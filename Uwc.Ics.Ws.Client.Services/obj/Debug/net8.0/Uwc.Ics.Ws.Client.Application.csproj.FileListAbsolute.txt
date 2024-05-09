@@ -1,0 +1,13 @@
+C:\source\Work-Study Blazor Solution\Uwc.Ics.Ws.Client.Services\obj\Debug\net8.0\Uwc.Ics.Ws.Client.Application.csproj.AssemblyReference.cache
+C:\source\Work-Study Blazor Solution\Uwc.Ics.Ws.Client.Services\obj\Debug\net8.0\Uwc.Ics.Ws.Client.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Work-Study Blazor Solution\Uwc.Ics.Ws.Client.Services\obj\Debug\net8.0\Uwc.Ics.Ws.Client.Application.AssemblyInfoInputs.cache
+C:\source\Work-Study Blazor Solution\Uwc.Ics.Ws.Client.Services\obj\Debug\net8.0\Uwc.Ics.Ws.Client.Application.AssemblyInfo.cs
+C:\source\Work-Study Blazor Solution\Uwc.Ics.Ws.Client.Services\obj\Debug\net8.0\Uwc.Ics.Ws.Client.Application.csproj.CoreCompileInputs.cache
+C:\source\Work-Study Blazor Solution\Uwc.Ics.Ws.Client.Services\obj\Debug\net8.0\Uwc.Ics.Ws.Client.Application.sourcelink.json
+C:\source\Work-Study Blazor Solution\Uwc.Ics.Ws.Client.Services\bin\Debug\net8.0\Uwc.Ics.Ws.Client.Application.deps.json
+C:\source\Work-Study Blazor Solution\Uwc.Ics.Ws.Client.Services\bin\Debug\net8.0\Uwc.Ics.Ws.Client.Application.dll
+C:\source\Work-Study Blazor Solution\Uwc.Ics.Ws.Client.Services\bin\Debug\net8.0\Uwc.Ics.Ws.Client.Application.pdb
+C:\source\Work-Study Blazor Solution\Uwc.Ics.Ws.Client.Services\obj\Debug\net8.0\Uwc.Ics.Ws.Client.Application.dll
+C:\source\Work-Study Blazor Solution\Uwc.Ics.Ws.Client.Services\obj\Debug\net8.0\refint\Uwc.Ics.Ws.Client.Application.dll
+C:\source\Work-Study Blazor Solution\Uwc.Ics.Ws.Client.Services\obj\Debug\net8.0\Uwc.Ics.Ws.Client.Application.pdb
+C:\source\Work-Study Blazor Solution\Uwc.Ics.Ws.Client.Services\obj\Debug\net8.0\ref\Uwc.Ics.Ws.Client.Application.dll
